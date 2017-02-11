@@ -1,2 +1,2 @@
 # Lossless-Data-Compression
-Entropy encoding for lossless compression of a data cube with 24576 elements.
+Encoding voxel of data using entropy encoding for lossless compression.
