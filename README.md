@@ -1,7 +1,7 @@
 # Lossless-Data-Compression
 
 ## Task Description
-This task was part of a project at the end of High Performance Conputing Laboratory. The goal of this course was to learn programming on GPUs with OpenCL. This is used to speed up execution time of any code by parallelizing bottlenecks and running them on GPU.
+This task was part of a project at the end of High Performance Computing Laboratory. The goal of this course was to learn programming on GPUs with OpenCL. This is used to speed up execution time of any code by parallelizing bottlenecks and running them on GPU.
 
 For any program, if there are many segments of the code that can be run in parallel, considerable speed up can be achieved by running the code on a GPU as opposed to CPU.
 
